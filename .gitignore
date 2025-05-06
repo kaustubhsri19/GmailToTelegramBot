@@ -1,0 +1,51 @@
+# Environment files
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Local development
+*.sqlite3
+*.db
+
+# Build/Downloaded files
+build/
+dist/
+downloads/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
