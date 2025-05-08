@@ -18,7 +18,7 @@ A Python bot that monitors your email inbox and forwards new messages to Telegra
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/email-telegram-bot.git
+    git clone https://github.com/yourusername/GmailToTelegramBot.git
     cd email-telegram-bot
 2. Install requirements:
     ```bash
